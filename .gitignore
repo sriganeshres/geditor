@@ -1,0 +1,11 @@
+# Ignore binary file 
+geditor
+
+# Ignore all object files (optional)
+*.o
+
+# Ignore any other binary outputs (optional)
+*.out
+*.exe
+
+# You can add more patterns here to ignore other files or directories
